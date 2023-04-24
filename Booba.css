@@ -1,0 +1,19 @@
+body
+{
+    background-color: black;
+}
+.borduresimple{
+    border-style: solid;
+}
+h1,h2,h3
+{
+    color: white; text-align: center;
+}
+img
+{
+    width: 500px; height: 500px; border-radius: 50%;
+}
+div
+{
+    text-align: center;
+}

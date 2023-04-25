@@ -1,0 +1,44 @@
+body
+{
+    margin: 0px;
+    padding: 0px;
+}
+h1
+{
+    font-size: 30px;
+    margin-left: 50px;
+}
+.span1
+{
+    font-size: 50px;
+    font-style: italic;
+    font-family: sans-serif;
+    color: red;
+}
+.span2
+{
+    font-size: 50px;
+    font-style: italic;
+    font-family: sans-serif;
+    color: red;
+}
+ul
+{
+    display: flex;
+    margin-left: 20%;
+    margin-top: -60px;
+    list-style-type: none;
+}
+a 
+{
+    margin-left: 20px;
+    text-decoration: none;
+}
+main
+{
+    background-image: url("https://biodiversite.gouv.fr/sites/default/files/styles/banner/public/2020-12/shutterstock_248941720_985x655_actu.jpg?itok=OQX0sB2p");
+    background-size: cover;
+    filter: brightness(60%);
+    
+    height: 400px;
+}
